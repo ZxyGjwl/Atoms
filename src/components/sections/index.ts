@@ -1,0 +1,9 @@
+export { LandingHero } from './LandingHero';
+export { Hero } from './Hero';
+export { Comparison } from './Comparison';
+export { AITeam } from './AITeam';
+export { Features } from './Features';
+export { GlobalSuccess } from './GlobalSuccess';
+export { Testimonials } from './Testimonials';
+export { FAQ } from './FAQ';
+export { Pricing } from './Pricing';
